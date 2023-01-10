@@ -1,0 +1,16 @@
+{
+    "name": "jaja/strat_pattern",
+    "description": "Strategy Pattern",
+    "autoload": {
+        "psr-4": {
+            "Jaja\\StratPattern\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Killian Vitug",
+            "email": "killianjarelvitug@yahoo.com"
+        }
+    ],
+    "require": {}
+}
